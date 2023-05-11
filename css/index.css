@@ -9,3 +9,18 @@
 body {
   background-color: violet;
 }
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Regole container */
+
+#container {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-size: 30px;
+  text-align: center;
+}
